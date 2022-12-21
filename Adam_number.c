@@ -1,7 +1,7 @@
 #include<stdio.h>
 int main()
 {
-    int n,r,s=0,p=0,sqr,sq;
+    int n,sq,r,s=0,sqr,p=0;
     scanf("%d",&n);
     sq=n*n;
     while(n>0)
