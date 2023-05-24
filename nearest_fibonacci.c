@@ -4,7 +4,6 @@ int main()
 {
     int n,d1,d2,ap,bp,i;
     scanf("%d",&n);
-    fab(n);
     for(i=n+1;;i++)
     {
         if(fab(i))
